@@ -20,11 +20,10 @@ export default class Skills extends Component {
               data-animate-effect="fadeInLeft"
             >
               <p>
-                The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.
+                I have extensive knowledge of JavaScript, both for website and
+                web app implementation. I am also familar with React.js, which
+                this portfolio site is built with, and WordPress. Finally, I
+                have working knowledge of Python.
               </p>
             </div>
             <div
@@ -32,7 +31,7 @@ export default class Skills extends Component {
               data-animate-effect="fadeInLeft"
             >
               <div className="progress-wrap">
-                <h3>Photoshop</h3>
+                <h3>JavaScript</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-1"
@@ -40,9 +39,9 @@ export default class Skills extends Component {
                     aria-valuenow="75"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:75%"
+                    style={{ width: "90%" }}
                   >
-                    <span>75%</span>
+                    <span>90%</span>
                   </div>
                 </div>
               </div>
@@ -52,7 +51,7 @@ export default class Skills extends Component {
               data-animate-effect="fadeInRight"
             >
               <div className="progress-wrap">
-                <h3>jQuery</h3>
+                <h3>React.js</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-2"
@@ -60,9 +59,9 @@ export default class Skills extends Component {
                     aria-valuenow="60"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:60%"
+                    style={{ width: "75%" }}
                   >
-                    <span>60%</span>
+                    <span>75%</span>
                   </div>
                 </div>
               </div>
@@ -80,7 +79,7 @@ export default class Skills extends Component {
                     aria-valuenow="85"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:85%"
+                    style={{ width: "85%" }}
                   >
                     <span>85%</span>
                   </div>
@@ -100,9 +99,9 @@ export default class Skills extends Component {
                     aria-valuenow="90"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:90%"
+                    style={{ width: "80%" }}
                   >
-                    <span>90%</span>
+                    <span>80%</span>
                   </div>
                 </div>
               </div>
@@ -120,9 +119,9 @@ export default class Skills extends Component {
                     aria-valuenow="70"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:70%"
+                    style={{ width: "90%" }}
                   >
-                    <span>70%</span>
+                    <span>90%</span>
                   </div>
                 </div>
               </div>
@@ -132,7 +131,7 @@ export default class Skills extends Component {
               data-animate-effect="fadeInRight"
             >
               <div className="progress-wrap">
-                <h3>SEO</h3>
+                <h3>Python</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-6"
@@ -140,9 +139,9 @@ export default class Skills extends Component {
                     aria-valuenow="80"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style="width:80%"
+                    style={{ width: "40%" }}
                   >
-                    <span>80%</span>
+                    <span>40%</span>
                   </div>
                 </div>
               </div>

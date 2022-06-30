@@ -27,15 +27,13 @@ export default class Experience extends Component {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">Full Stack Developer</a>{" "}
-                        <span>2017-2018</span>
+                        <a href="#">Web Developer</a> <span>2015-2022</span>
                       </h2>
                       <p>
-                        Tolerably earnestly middleton extremely distrusts she
-                        boy now not. Add and offered prepare how cordial two
-                        promise. Greatly who affixed suppose but enquire compact
-                        prepare all put. Added forth chief trees but rooms think
-                        may.
+                        I have experience desigining and implementing websites
+                        and web applications. I have created client websites for
+                        nonprofits and small businesses, and I have built web
+                        applications for banking and finance sites.
                       </p>
                     </div>
                   </div>
@@ -50,14 +48,13 @@ export default class Experience extends Component {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">Front End Developer at Google Company</a>{" "}
-                        <span>2017-2018</span>
+                        <a href="#">JavaScript Expert</a> <span>2020-2022</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        JavaScript and JavaScript-based frameworks is my
+                        specialty. I have thorough knowledge of JavaScript
+                        libraries, and I have hands-on experience with
+                        frameworks like React.js.
                       </p>
                     </div>
                   </div>
@@ -72,13 +69,14 @@ export default class Experience extends Component {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">System Analyst</a> <span>2017-2018</span>
+                        <a href="#">WordPress Site Builder</a>{" "}
+                        <span>2018-2022</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        I have built numerous sites using WordPress, including
+                        sites for small businesses and nonprofits. I can easily
+                        assemble a clean, beautiful site that is both blazing
+                        fast and secure.
                       </p>
                     </div>
                   </div>
@@ -93,35 +91,12 @@ export default class Experience extends Component {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">Creative Designer</a> <span>2017-2018</span>
+                        <a href="#">React.js Experience</a>{" "}
+                        <span>2021-2022</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
-                      </p>
-                    </div>
-                  </div>
-                </article>
-                <article
-                  className="timeline-entry animate-box"
-                  data-animate-effect="fadeInLeft"
-                >
-                  <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-5">
-                      <i className="icon-pen2" />
-                    </div>
-                    <div className="timeline-label">
-                      <h2>
-                        <a href="#">UI/UX Designer at Envato</a>{" "}
-                        <span>2017-2018</span>
-                      </h2>
-                      <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        I have experience building sites using React.js. This
+                        portfolio site is one such example.
                       </p>
                     </div>
                   </div>

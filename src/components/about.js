@@ -13,21 +13,19 @@ export default class About extends Component {
               >
                 <div className="col-md-12">
                   <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                      <strong>Hi I'm Jackson Ford</strong> On her way she met a
-                      copy. The copy warned the Little Blind Text, that where it
-                      came from it would have been rewritten a thousand times
-                      and everything that was left from its origin would be the
-                      word "and" and the Little Blind Text should turn around
-                      and return to its own, safe country.
+                      <strong>Hi! I'm Ronan.</strong> I'm a self-taught web
+                      developer currently enrolled at the University of
+                      Minnesota. I specialize in JavaScript, React.js, and
+                      WordPress. I also have extensive knowledge of HTML and
+                      CSS, and experience creating basic Python applications.
                     </p>
                     <p>
-                      Even the all-powerful Pointing has no control about the
-                      blind texts it is an almost unorthographic life One day
-                      however a small line of blind text by the name of Lorem
-                      Ipsum decided to leave for the far World of Grammar.
+                      On a more personal note, I'm vegan, I have four cats, and
+                      I published a novel in 2021 called The Sapphanese Guild.
+                      Read on for more details!
                     </p>
                   </div>
                 </div>
@@ -41,7 +39,7 @@ export default class About extends Component {
                     <span className="icon2">
                       <i className="icon-bulb" />
                     </span>
-                    <h3>Graphic Design</h3>
+                    <h3>Creativity & Lateral Thinking</h3>
                   </div>
                 </div>
                 <div

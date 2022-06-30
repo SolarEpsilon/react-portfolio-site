@@ -22,14 +22,17 @@ export default class Sidebar extends Component {
           <div className="text-center">
             <div
               className="author-img"
-              style={{ backgroundImage: "url(images/about.jpg)" }}
+              style={{ backgroundImage: "url('images/about.jpeg')" }}
             />
             <h1 id="colorlib-logo">
-              <a href="index.html">Jackson Ford</a>
+              <a href="index.html">Ronan Magnus</a>
             </h1>
             <span className="position">
-              <a href="#">UI/UX/Designer</a> in Philippines
+              <a href="#">Full stack developer</a> in Minneapolis
             </span>
+            <p>
+              📧 contact@ronanmagnus.com <br /> 📞 1-920-474-6617
+            </p>
           </div>
           <nav id="colorlib-main-menu" role="navigation" className="navbar">
             <div id="navbar" className="collapse">
@@ -85,26 +88,16 @@ export default class Sidebar extends Component {
           <div className="colorlib-footer">
             <p>
               <small>
-                ©{" "}
                 {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                Copyright All rights reserved. Made with{" "}
-                <i className="icon-heart" aria-hidden="true" /> by{" "}
-                <a href="https://colorlib.com" target="_blank">
-                  Colorlib
-                </a>
+                Made with <i className="icon-heart" aria-hidden="true" /> and 🍫
                 {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}{" "}
                 <span>
-                  Distributed by{" "}
-                  <a href="https://themewagon.com" target="_blank">
-                    ThemeWagon
-                  </a>
+                  Thanks{" "}
+                  <a href="https://colorlib.com" target="_blank">
+                    Colorlib
+                  </a>{" "}
+                  for inspiration
                 </span>{" "}
-                <span>
-                  Demo Images:{" "}
-                  <a href="https://unsplash.com/" target="_blank">
-                    Unsplash.com
-                  </a>
-                </span>
               </small>
             </p>
             <ul>
