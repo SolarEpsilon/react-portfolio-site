@@ -19,7 +19,7 @@ function App() {
         <div id="colorlib-main">
           <Home></Home>
           <About></About>
-          <Services></Services>
+          {/* <Services></Services> */}
           <Skills></Skills>
           {/* <Education></Education> */}
           <Experience></Experience>
